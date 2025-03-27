@@ -1,0 +1,1 @@
+This is a GUI loop traffic simulation that uses JavaFX. I recommend using IntelliJ to set up the JavaFX configuration using Java 21. Simulation has 3 traffic lights with 3 vehicles and the vehicles stop at the traffic lights. The user can add additional cars on the simulation.
