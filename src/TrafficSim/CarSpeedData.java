@@ -1,4 +1,4 @@
-/* Project name: CMSC335Project3
+/* Project name: 
  * File name: Main.java
  * Author: Timothy Eckart
  * Date: 10 dec 2024
